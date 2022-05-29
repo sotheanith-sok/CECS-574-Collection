@@ -7,7 +7,7 @@ A collection of assignments for the CECS 574 class.
  - [C++](http://mingw-w64.org/doku.php)
 
 ## Authors
- - [Sotheanith Sok](https://github.com/sotheanith)
+ - [Sotheanith Sok](https://github.com/sotheanith-sok)
 
 ## Course
  - [CECS 574 - Distributed Computing](http://catalog.csulb.edu/preview_course_nopop.php?catoid=5&coid=40048)
